@@ -1,0 +1,1 @@
+This program reads a collection of documents from a CSV file, processes them by removing stopwords and applying stemming, identifies unique terms, and calculates the tf-idf weights for these terms across the documents. The program then prints the document-term matrix based on the tf-idf weights.
